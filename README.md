@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<h3 align="center">A Upcoming Full Stack Developer...</h3>
 
-<!--
-**SingAyush/SingAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **E-Commerce Website FrontEnd**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Next.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/singayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="singayush" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-singh-743471217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-singh-743471217" height="30" width="40" /></a>
+<a href="https://instagram.com/ayushsingh_2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushsingh_2903" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/SinghAyush/count.svg" />
+</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singayush&show_icons=true&locale=en&layout=compact" alt="singayush" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singayush&show_icons=true&locale=en" alt="singayush" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singayush&" alt="singayush" /></p>
+</p>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=SingAyush&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=SingAyush&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SingAyush&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+  </picture>
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singayush" alt="singayush" /></a> </p>
+
+
