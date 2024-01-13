@@ -20,9 +20,44 @@
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/SinghAyush/count.svg" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singayush&show_icons=true&locale=en&layout=compact" alt="singayush" /></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=singayush&show_icons=true&locale=en" alt="singayush" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=singayush&" alt="singayush" /></p>
+<p align="center">
+<span style="
+    display: flex;
+    gap: 10px;">  <picture>
+    <source 
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=SingAyush&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=SingAyush&show_icons=true&theme=solarized-light&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-psi-rust.vercel.app/api?username=SingAyush&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
+  </picture><picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=SingAyush&theme=solarized-light&count_private=true&background=ffffff00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=SingAyush&&theme=solarized-light&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=SingAyush&&theme=solarized-light" width=48% alt="github-stats"/>
+  </picture>
+  </span>
+</p>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=SingAyush&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=SingAyush&layout=compact&bg_color=eee8d5&&color=586e75"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=SingAyush&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Ayush" />
+  </picture>
 </p>
 <p align="center">
   <picture>
