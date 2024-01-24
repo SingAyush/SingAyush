@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ayush Singh</h1>
+<h1 align="center">Hello 👋, I'm Ayush Singh</h1> ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 <h3 align="center">A Upcoming Full Stack Developer...</h3>
 
 - 🔭 I’m currently working on **E-Commerce Website FrontEnd**
